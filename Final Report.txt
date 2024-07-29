@@ -1,0 +1,84 @@
+Final Report
+1. Execu&ve Summary:
+The customer segmenta1on project aimed to enhance the understanding of customer
+proﬁles for a retail store, ul1mately leading to improved marke1ng strategies and
+increased sales. By u1lizing the Mall Customers dataset, the project employed data
+cleaning, exploratory data analysis (EDA), and K-Means clustering to segment customers
+based on their purchasing behavior and demographics. The outcomes of this project
+include dis1nct customer segments, ac1onable insights for targeted marke1ng, and
+visualiza1ons that eﬀec1vely communicate the ﬁndings to stakeholders.
+2. Introduc&on:
+Project Background:
+In the compe11ve retail landscape, understanding customer behavior is crucial for
+developing eﬀec1ve marke1ng strategies. The retail store faced challenges due to a lack
+of insight into its diverse customer proﬁles, resul1ng in untargeted marke1ng eﬀorts.
+Objec&ves:
+The primary objec1ves of this project were:
+1.
+To segment customers into dis1nct groups based on their purchasing behavior.
+2.
+To provide insights that can inform targeted marke1ng strategies and improve
+overall customer sa1sfac1on and sales.
+3. Methodology
+The methodology for achieving the project objec1ves involved several key steps:
+Data Collec&on:
+•
+The Mall Customers dataset was acquired, containing essen1al informa1on about
+customers, including demographics and purchasing behavior.
+Data Cleaning:
+•
+The dataset was preprocessed to handle missing values, remove duplicates, and
+transform categorical variables into numerical format. Normaliza1on of numerical
+features was also performed to prepare the data for clustering.
+Exploratory Data Analysis (EDA):
+•
+EDA was conducted to analyze customer demographics and purchasing paSerns.
+Various visualiza1ons were created using Matplotlib and Seaborn to iden1fy trends and
+rela1onships within the data.
+Clustering:
+
+•
+The K-Means clustering algorithm was implemented to segment customers. The
+op1mal number of clusters was determined using the Elbow Method, and the quality of
+the clusters was validated.
+Visualiza&on:
+•
+Visualiza1ons were created to represent the characteris1cs of each customer
+segment. Interac1ve dashboards were developed in Power BI to present insights to
+stakeholders eﬀec1vely.
+4. Results:
+The analysis and segmenta1on yielded the following ﬁndings:
+Customer Segments: The K-Means clustering iden1ﬁed three dis1nct customer
+segments:
+•
+High Spend, Young Customers: Younger customers (ages 18-30) with high
+spending scores, indica1ng a preference for premium products.
+•
+Middle-Aged, Moderate Spend Customers: Customers aged 31-50 with
+moderate spending scores, indica1ng a balanced approach to purchasing.
+•
+Budget-Conscious Older Customers: Older customers (ages 51+) with low
+spending scores, indica1ng a preference for budget-friendly op1ons.
+Visual Insights: The visualiza1ons highlighted key characteris1cs of each segment, such
+as age distribu1on, income levels, and spending behavior.
+Ac&onable Insights: The ﬁndings suggest that targeted marke1ng campaigns could be
+developed for each segment, focusing on personalized promo1ons and product
+recommenda1ons.
+5. Conclusion:
+The customer segmenta1on project successfully achieved its objec1ves, providing
+valuable insights into the retail store's customer base. The dis1nct customer segments
+iden1ﬁed through K-Means clustering can inform targeted marke1ng strategies,
+enhancing customer sa1sfac1on and driving sales.
+Key Insights:
+•
+Tailored marke1ng strategies should be developed for each customer segment to
+maximize engagement and conversion rates.
+•
+The store should consider product assortments that cater to the preferences of
+each segment, par1cularly focusing on premium oﬀerings for younger customers and
+budget-friendly op1ons for older customers.
+
+6. Appendices:
+The cosde snippets, visual representa1on and others are shown in the google colab link
+below:
+https://colab.research.google.com/drive/1PydGU7BGqa30hScLbjRmeuZerx0GLg_Q?usp=drive_link
